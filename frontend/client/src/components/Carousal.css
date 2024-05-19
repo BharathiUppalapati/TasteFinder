@@ -1,0 +1,13 @@
+.carousel-inner {
+    width: 1500px;
+    height: 600px;
+    margin: 0 auto;
+  }
+  
+  .carousel-item img {
+    width: 1500px;
+    height: 600px;
+    object-fit: cover;
+    filter: brightness(30%);
+  }
+  

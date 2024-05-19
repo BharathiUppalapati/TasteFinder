@@ -1,0 +1,10 @@
+/* Add this CSS to your global CSS file or add it to Cart.css if you have one */
+.cart-container {
+    margin-top: 100px;
+}
+
+.order-button {
+    margin-top: 50px; 
+   /* Adjust margin as needed */
+    /* Add any other styles you want for the button */
+}

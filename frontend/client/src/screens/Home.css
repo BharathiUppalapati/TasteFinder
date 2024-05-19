@@ -1,0 +1,14 @@
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.dishes-menu-container {
+	margin-top: 20px; /* Add some space between the restaurant list and the dishes menu */
+	width: 100%; /* Ensure the container takes up full width */
+	display: flex;
+	justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+}
